@@ -17,5 +17,7 @@ The following script files are included in this project:
 - `int_deco.py`: Agent used to build internal decorations.
 - `PCG_RL.py`: Main program file.
 
+## Usages
+Before excuting the file, make sure GDPC interface is adequately installed and activated.
 To run the project, put all scripts into one root folder, specify the building area, and run `PCG_RL.py` file. Wait for the house to be generated.
 
