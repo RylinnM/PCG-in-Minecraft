@@ -9,8 +9,7 @@ from gdpc import Block, Editor
 from gdpc import geometry as geo
 from gdpc import minecraft_tools as mt
 from gdpc import editor_tools as et
-from terrain_scan import scanTerrain
-from build_foundation import buildFoundation
+
 from materials import material_selection
 ED = Editor(buffering=True)
 
