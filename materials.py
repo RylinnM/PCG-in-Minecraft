@@ -10,7 +10,7 @@ from gdpc import Block, Editor
 from gdpc import geometry as geo
 from gdpc import minecraft_tools as mt
 from gdpc import editor_tools as et
-from terrain_scan import scanTerrain
+
 
 logging.basicConfig(format=colored("%(name)s - %(levelname)s - %(message)s", color="yellow"))
 
