@@ -15,9 +15,9 @@ The following script files are included in this project:
 - `structure.py`: Agent used to build the main structure of the house.
 - `ext_deco.py`: Agent used to build external decorations.
 - `int_deco.py`: Agent used to build internal decorations.
-- `PCG_RL.py`: Main program file.
+- `PCG_main.py`: Main program file.
 
 ## Usages
 Before excuting the file, make sure GDPC interface is adequately installed and activated.
-To run the project, put all scripts into one root folder, specify the building area, and run `PCG_RL.py` file. Wait for the house to be generated.
+To run the project, put all scripts into one root folder, specify the building area, and run `PCG_main.py` file. Wait for the house to be generated.
 
