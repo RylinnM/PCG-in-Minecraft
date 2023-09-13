@@ -3,7 +3,7 @@
 This project presents a procedural content generation method to build a house in the Minecraft world, with more than one billion variations. It uses GDPC interface for interacting with Minecraft.
 
 ## Update
-This project has been incorporated into a broader project with similar approaches, which you can find in the following link https://github.com/RylinnM/Minecraft-World-Creation.
+This project has been incorporated into a broader project with similar approaches, which you can find in the following link https://github.com/RylinnM/Minecraft-World-Creation. Further development of this repository is terminated as of this moment.
 
 ## Compatibility
 
